@@ -22,5 +22,5 @@ import java.sql.SQLException;
         }
         return connection;
     }
- // реализуйте настройку соеденения с БД
+
 }
